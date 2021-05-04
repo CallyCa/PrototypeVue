@@ -72,7 +72,7 @@ export default {
 .sidenav a.router-link-exact-active,
 .sidenav a:hover,
 .sidenav button:hover {
-  background: #87f;
+  background: rgb(255, 146, 107);
   color: #fff;
 }
 

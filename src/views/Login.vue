@@ -67,7 +67,7 @@ form {
 }
 
 .perdeu a:hover {
-    color: #87f;
+    color: rgb(255, 146, 107);
     text-decoration: underline;
 }
 
@@ -75,6 +75,6 @@ h1 {
     text-align: center;
     font-size: 2rem;
     margin-top: 40px;
-    color: #87f;
+    color: rgb(255, 146, 107);
 }
 </style>

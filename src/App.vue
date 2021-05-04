@@ -105,7 +105,7 @@ textarea:hover,
 textarea:focus {
   outline: none;
   box-shadow: 0 6px 12px rgba(30, 60, 90, .2);
-  border-color: #87f;
+  border-color: rgb(255, 146, 107);
 }
 
 /* transition, quando ele nao tem nome usa v-enter e v-leave*/ 

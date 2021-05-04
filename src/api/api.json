@@ -1,5 +1,26 @@
 {
-  "transacao": [],
+  "transacao": [
+    {
+      "comprador_id": "algum@hotmail.com",
+      "vendedor_id": "algum@hotmail.com",
+      "produto": {
+        "id": "bolo",
+        "nome": "Bolo de cenoura",
+        "usuario_id": "algum@hotmail.com",
+        "preco": "10.99",
+        "vendido": "false",
+        "descricao": "Bolo de cenoura com cobertura de chocolate.",
+        "fotos": null
+      },
+      "endereco": {
+        "rua": "Rua Ali Perto",
+        "numero": "25",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ"
+      },
+      "id": 1
+    }
+  ],
   "usuario": [
     {
       "id": "algum@hotmail.com",

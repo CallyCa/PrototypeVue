@@ -53,7 +53,7 @@ export default {
   },
   created() {
     if(this.login) {
-      this.getCompras();
+      this.getVendas();
     }
   }
 }
