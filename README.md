@@ -9,3 +9,8 @@ npm install or yarn
 ```
 npm run serve or yarn run serve
 ```
+
+### Enable API
+```
+json-server --watch .\src\api\api.json --port 3000
+```
